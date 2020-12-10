@@ -1,0 +1,18 @@
+/*---------------------------------
+Library reset.css
+Date: 30/10/20
+Created by kanydian Esteves Canedo
+-----------------------------------*/
+* {
+    box-sizing: border-box
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: #d7d4f0;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+}
